@@ -21,5 +21,6 @@ It features a warm, earthy interface with dark and light modes, along with built
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/Hafsa662/DevPocket.git](https://github.com/Hafsa662/DevPocket.git)
-   cd DevPocket
+
+   git clone https://github.com/Hafsa662/DevPocket.git
+   
